@@ -32,7 +32,7 @@ def adding
                   "oil paintings" => 3
                  }
                  
-                 sh
+                 shipping_manifest
   # add 2 muskets to the shipping_manifest hash below
 
 
